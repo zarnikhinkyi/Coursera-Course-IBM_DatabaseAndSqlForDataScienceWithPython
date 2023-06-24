@@ -1,2 +1,2 @@
-# Coursera_IBM-Data-Science-Professional-Certificate-Certification
+# Coursera_IBM-DatabaseAndSqlForDataScienceWithPython
 Learn from Coursera _IBM
